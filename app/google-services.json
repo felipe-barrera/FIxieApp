@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558788864970",
+    "firebase_url": "https://fixie-d2a8f.firebaseio.com",
+    "project_id": "fixie-d2a8f",
+    "storage_bucket": "fixie-d2a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558788864970:android:a0088b2da3a11264aa7d33",
+        "android_client_info": {
+          "package_name": "com.lock.fixie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558788864970-sb3kj2scfo9i06rouo0bvmvl6t82bu32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEJacPHgxsFA5QkdXJCya13Z0YpYRx9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558788864970-sb3kj2scfo9i06rouo0bvmvl6t82bu32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
